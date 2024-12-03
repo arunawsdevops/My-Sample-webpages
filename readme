@@ -1,5 +1,10 @@
-Project
--------
+
+## Project Architecture
+![Architecture](./image.png)
+
+
+### Project Commands
+
 https://github.com/arunawsdevops/Voting-application.git
 create three images for Vote, Result and Worker
 Then create redis container
